@@ -156,21 +156,12 @@ Add programmable flicker (30–60 Hz range) with adjustable duty cycle; default 
 
 ---
 
-### 📚 References Index
+## 📚 References
 
-1. [Mayo Clinic – SAD Light Box Guidelines](https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/in-depth/seasonal-affective-disorder-treatment/art-20048298)  
-2. [Comparative Effects of Red and Blue LED Light on Melatonin – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12113466/)  
-3. [Industrial Health – Dawn Simulation Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC5136610/)  
-4. [NIWA – Action Spectrum for Vitamin D Synthesis](https://niwa.co.nz/sites/default/files/action_spectrum_for_vit_d_synthesis.pdf)  
-5. [Relationship Between UV Exposure and Vitamin D Status – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3257661/)  
-6. [Effects of UV-B Light Exposure in Dairy Cows – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11776301/)  
-7. [Photobiomodulation: Shining a Light on Depression – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11671386/)  
-8. [Controlled Clinical Trial: Red/NIR Light for Skin – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3926176/)  
-9. [Low-Level Light Stimulates Wound Healing – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2935798/)  
-10. [Green Light for Migraine – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034831/)  
-11. [Blue Light for Acne – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2923954/)  
-12. [40 Hz Light Therapy Protocol – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10600489/)  
-13. [Gamma Band Light Entrainment – PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6700637/)
+The complete, linked reference table is available in  
+[`/docs/references.md`](./references.md).  
+For developers, the structured JSON version is in  
+[`/docs/research_sources.json`](./research_sources.json).
 
 ---
 
