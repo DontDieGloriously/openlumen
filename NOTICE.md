@@ -1,5 +1,5 @@
 OpenLumen – DIY LED Longevity Panels
-Copyright (c) 2025 Fat Possum Pty Ltd
+Copyright (c) 2025 Don't Die Gloriously
 
 This project is dual-licensed:
 
@@ -20,4 +20,4 @@ the Creative Commons Attribution-ShareAlike 4.0 International License
 Summary:
 - Personal / educational use: ✅ permitted
 - Commercial use: ⚠️ requires license
-- Branding (“OpenLumen”): Fat Possum Pty Ltd
+- Branding (“OpenLumen”): Don't Die Gloriously
