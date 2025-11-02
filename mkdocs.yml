@@ -1,8 +1,8 @@
 site_name: OpenLumen Docs
 site_description: DIY LED Longevity Panels – evidence-based, maker-friendly
-site_url: https://ryan-james-smith.github.io/openlumen/
-repo_url: https://github.com/ryan-james-smith/openlumen
-repo_name: ryan-james-smith/openlumen
+site_url: https://DontDieGloriously.github.io/openlumen/
+repo_url: https://github.com/DontDieGloriously/openlumen
+repo_name: DontDieGloriously/openlumen
 edit_uri: edit/main/docs/
 
 theme:
@@ -43,7 +43,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<your-username>
+      link: https://github.com/DontDieGloriously
 
 nav:
   - Overview:
