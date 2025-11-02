@@ -17,7 +17,7 @@ Use OpenLumen to:
 
 A modular system of LED panels + smart controller firmware that lets users **replicate therapeutic light environments** backed by science.
 
-Each spectral mode is justified with published research (see [`research.md`](./research.md)), so you can understand *why* specific wavelengths, intensities, and exposure times were chosen.
+Each spectral mode is justified with published research (see [`research.md`](./docs/research.md)), so you can understand *why* specific wavelengths, intensities, and exposure times were chosen.
 
 ---
 
