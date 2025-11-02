@@ -1,9 +1,9 @@
 # OpenLumen Commercial License
 
-**Copyright © 2025 Fat Possum Pty Ltd**
+**Copyright © 2025 Don't Die Gloriously**
 
 This license allows commercial use of the OpenLumen hardware, firmware, and software
-under terms agreed directly with Fat Possum Pty Ltd.
+under terms agreed directly with Don't Die Gloriously.
 
 ## You May
 
@@ -14,14 +14,14 @@ under terms agreed directly with Fat Possum Pty Ltd.
 
 ## You Must
 
-- Obtain written authorization from Fat Possum Pty Ltd before commercial use.
+- Obtain written authorization from Don't Die Gloriously before commercial use.
 - Pay any agreed royalties, license fees, or partnership costs.
-- Attribute “OpenLumen by Fat Possum Pty Ltd” in documentation and marketing materials.
+- Attribute “OpenLumen by Don't Die Gloriously” in documentation and marketing materials.
 - Maintain product safety standards and proper light-exposure protections.
 
 ## How to Obtain a License
 
-Email **licensing@fatpossum.au**  
+Email **licensing@dontdiegloriously.com**  
 Please include:
 - Your company or project name
 - Intended commercial use (manufacturing, resale, integration, etc.)
@@ -39,4 +39,4 @@ Thank you for contributing to the open-science ecosystem.
 ---
 
 *This document summarizes commercial licensing terms. The binding agreement will
-be provided by Fat Possum Pty Ltd and signed by both parties.*
+be provided by Don't Die Gloriously and signed by both parties.*
