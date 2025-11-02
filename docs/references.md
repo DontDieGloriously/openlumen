@@ -32,5 +32,5 @@ This list mirrors the entries in [`research_sources.json`](./research_sources.js
 
 ---
 
-*Maintained by Fat Possum Pty Ltd – OpenLumen Project (2025).*  
+*Maintained by Don't Die Gloriously – OpenLumen Project (2025).*  
 *All cited works remain the property of their respective authors and journals.*
